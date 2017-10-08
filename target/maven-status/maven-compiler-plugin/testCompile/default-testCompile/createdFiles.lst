@@ -1,0 +1,4 @@
+com\nationwide\nf\rp\service\EjbLoansClientServiceTest.class
+com\nationwide\nf\rp\service\LoanServiceImplTest.class
+com\nationwide\nf\rp\util\LoanWebServiceValidatorTest.class
+com\nationwide\nf\rp\util\LoanWebServiceConfigurationTest.class
